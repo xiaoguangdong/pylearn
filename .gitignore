@@ -57,3 +57,6 @@ test_dir/
 .DS_Store
 Thumbs.db
 
+# 文档文件
+docs/github_setup_guide.md
+
