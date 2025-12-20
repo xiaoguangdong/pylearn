@@ -155,7 +155,7 @@ def demo_inheritance_and_polymorphism():
     animals = [dog, cat]
     for animal in animals:
         print(f"  {animal.name}: {animal.make_sound()}")
-    
+    x
     print()
 
 
